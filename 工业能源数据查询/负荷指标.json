@@ -1,0 +1,49 @@
+[
+  //？？交通电力的前端图片、表格数据显示好像有bug  还有就是
+  {
+    //level=1
+    "electricVehicle": 7.0,
+    "electric": 466.2,
+    "steam": 0.89,
+    "industryHotWater": 1.96,
+    "industryColdWater": 11.6,
+    "gas": 4.72
+  },
+  {
+    //level=2
+    "electricVehicle": 30.0,
+    "electric": 495.34,
+    "steam": 0.95,
+    "industryHotWater": 2.09,
+    "industryColdWater": 12.32,
+    "gas": 5.02
+  },
+  {
+    //level=3
+    "electricVehicle": 60.0,
+    "electric": 524.47,
+    "steam": 1.0,
+    "industryHotWater": 2.21,
+    "industryColdWater": 13.05,
+    "gas": 5.31
+  },
+  {
+    //level=4
+    "electricVehicle": 90.0,
+    "electric": 553.61,
+    "steam": 1.06,
+    "industryHotWater": 2.33,
+    "industryColdWater": 13.77,
+    "gas": 5.61
+  },
+  {
+    //level=5
+    "electricVehicle": 120.0,
+    "electric": 582.75,
+    "steam": 1.11,
+    "industryHotWater": 2.45,
+    "industryColdWater": 14.5,
+    "gas": 5.9
+  }
+]
+//工业类型与负荷有关。城市无关。

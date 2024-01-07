@@ -1,0 +1,248 @@
+{
+  //没太看明白前端和数据之间的关系
+  "equipment": {
+    //厂商品牌
+    "id": 164,
+    "systemCode": "e0401",
+    "supplierCode": "s00002",
+    "specificationCode": "e0401s00002n00001",
+    "specificationName": "SGT5-2000E-275MW",
+    "specificationDescription": "额定发电功率275MW，额定蒸汽输出252t/h"
+  },
+  "system": {
+    //能源系统
+    "id": 12,
+    "systemCode": "e0401",
+    "systemName": "燃气轮机联合循环系统（G）",
+    "systemDescription": null,
+    "systemType": "A",
+    "conditionType": "单工况双输出",
+    "conditionA": "常规",
+    "conditionB": null,
+    "mainInputA": "天然气,压力,MPa,1.6",
+    "mainOutputA": "电力,电压,kV,220",
+    "auxiliaryOutputA": "蒸汽,压力/温度,MPa/℃,1.25/250",
+    "secondaryOutputA": null,
+    "mainInputB": null,
+    "mainOutputB": null,
+    "auxiliaryOutputB": null,
+    "secondaryOutputB": null,
+    "moduleType": null,
+    "moduleDimension": null,
+    "parameter1": null,
+    "parameter2": null,
+    "parameter3": null,
+    "parameter4": null,
+    "parameter5": null,
+    "parameter6": null,
+    "parameter7": null,
+    "parameter8": null,
+    "parameter9": null,
+    "parameter10": null,
+    "parameter11": null,
+    "parameter12": null,
+    "parameter13": null,
+    "parameter14": null,
+    "parameter15": null,
+    "systemUseRate": null,
+    "efficiency1": null,
+    "efficiency2": null,
+    "efficiency3": null,
+    "efficiency4": null,
+    "efficiency5": null,
+    "systemStructure": 1.1111111111e11,
+    "mainOutputProportion": 0.7,
+    "auxiliaryOutputProportion": 0.3,
+    "secondaryOutputProportion": null
+  },
+  "workingCondition": {
+    "condition": {
+      //所有工况
+      "id": 12,
+      "systemCode": "e0401",
+      "systemName": "燃气轮机联合循环系统（G）",
+      "systemDescription": null,
+      "systemType": "A",
+      "conditionType": "单工况双输出",
+      "conditionA": "常规",
+      "conditionB": null, //没有第二种工况，只有conditionAc常规工况
+      "mainInputA": "天然气,压力,MPa,1.6",
+      "mainOutputA": "电力,电压,kV,220",
+      "auxiliaryOutputA": "蒸汽,压力/温度,MPa/℃,1.25/250",
+      "secondaryOutputA": null,
+      "mainInputB": null,
+      "mainOutputB": null,
+      "auxiliaryOutputB": null,
+      "secondaryOutputB": null,
+      "moduleType": null,
+      "moduleDimension": null,
+      "parameter1": null,
+      "parameter2": null,
+      "parameter3": null,
+      "parameter4": null,
+      "parameter5": null,
+      "parameter6": null,
+      "parameter7": null,
+      "parameter8": null,
+      "parameter9": null,
+      "parameter10": null,
+      "parameter11": null,
+      "parameter12": null,
+      "parameter13": null,
+      "parameter14": null,
+      "parameter15": null,
+      "systemUseRate": null,
+      "efficiency1": null,
+      "efficiency2": null,
+      "efficiency3": null,
+      "efficiency4": null,
+      "efficiency5": null,
+      "systemStructure": 1.1111111111e11,
+      "mainOutputProportion": 0.7,
+      "auxiliaryOutputProportion": 0.3,
+      "secondaryOutputProportion": null
+    },
+    "conditionA": {
+      //常规工况
+      //主输入
+      "mainInputName": "天然气",
+      "mainInputAttributeName": "压力",
+      "mainInputAttributeUnit": "MPa",
+      "mainInputAttributeValue": "1.6",
+      //主输出
+      "mainOutputName": "电力",
+      "mainOutputAttributeName": "电压",
+      "mainOutputAttributeUnit": "kV",
+      "mainOutputAttributeValue": "220",
+      //辅输出
+      "auxiliaryOutputName": "蒸汽",
+      "auxiliaryOutputAttributeName": "压力/温度",
+      "auxiliaryOutputAttributeUnit": "MPa/℃",
+      "auxiliaryOutputAttributeValue": "1.25/250",
+      //次输出
+      "secondaryOutputName": null,
+      "secondaryOutputAttributeName": null,
+      "secondaryOutputAttributeUnit": null,
+      "secondaryOutputAttributeValue": null
+    },
+    "conditionB": {
+      "mainInputName": null,
+      "mainInputAttributeName": null,
+      "mainInputAttributeUnit": null,
+      "mainInputAttributeValue": null,
+      "mainOutputName": null,
+      "mainOutputAttributeName": null,
+      "mainOutputAttributeUnit": null,
+      "mainOutputAttributeValue": null,
+      "auxiliaryOutputName": null,
+      "auxiliaryOutputAttributeName": null,
+      "auxiliaryOutputAttributeUnit": null,
+      "auxiliaryOutputAttributeValue": null,
+      "secondaryOutputName": null,
+      "secondaryOutputAttributeName": null,
+      "secondaryOutputAttributeUnit": null,
+      "secondaryOutputAttributeValue": null
+    }
+  },
+  "supplier": {
+    //？？前端并未显示
+    "id": 2,
+    "supplierCode": "s00002",
+    "supplierName": "西门子电气SIEMENS",
+    "manufacturer": "德国西门子电气公司",
+    "distributor": "德国西门子电气公司",
+    "integrator": "德国西门子电气公司",
+    "contactPerson": "西门子电气SIEMENS",
+    "contactPhone": "400-616-2020"
+  },
+  "parameter": {
+    //？？前端并未显示
+    "id": 164,
+    "specificationCode": "e0401s00002n00001",
+    "coveredArea": 32000.0,
+    "constructTime": 24.0,
+    "useTime": 30.0
+  },
+  "cost": {
+    //？？前端并未显示
+    "id": 164,
+    "specificationCode": "e0401s00002n00001",
+    "construction": 36142.8571428572,
+    "purchasing": 99392.8571428572,
+    "purchasingMain": 63250.0,
+    "purchasingAuxiliary": 36142.8571428572,
+    "installing": 45178.5714285714,
+    "others": 0.0,
+    "system": 180714.285714286,
+    "systemUnit": 0.657142857142857,
+    "mainUnit": 0.23
+  },
+  "lifetimeMaintenanceCost": [
+    //？？？？
+    7228.57142857143, 7517.71428571429, 7818.42285714286, 8131.15977142857,
+    8456.40616228572, 8794.66240877714, 9146.44890512823, 9512.30686133336,
+    9892.79913578669, 10288.5111012182, 10700.0515452669, 11128.0536070776,
+    11573.1757513607, 12036.1027814151, 12517.5468926717, 13018.2487683786,
+    13538.9787191137, 14080.5378678783, 14643.7593825934, 15229.5097578971,
+    15838.690148213, 16472.2377541415, 17131.1272643072, 17816.3723548795,
+    18529.0272490747, 19270.1883390376, 20040.9958725992, 20842.6357075031,
+    21676.3411358032, 22543.3947812354
+  ],
+  "lifetimeOutputEfficiency": [
+    //？？？？
+    0.99, 0.985, 0.98, 0.975, 0.97, 0.965, 0.96, 0.955, 0.95, 0.945, 0.94,
+    0.935, 0.93, 0.925, 0.92, 0.915, 0.91, 0.905, 0.9, 0.895, 0.885, 0.875,
+    0.865, 0.855, 0.845, 0.835, 0.825, 0.815, 0.805, 0.795
+  ],
+  "normalSystem": [
+    {
+      //额定功率
+      "id": 164,
+      "mainInput100": 515947.467166979,
+      "mainOutput100": 275000.0,
+      "auxiliaryOutput100": 189352.720450281,
+      "secondaryOutput100": null,
+      "electricConsumptionRate100": 6875.0,
+      "waterConsumptionRate100": 275.0
+    },
+    {
+      "id": 164,
+      "mainInput100": null,
+      "mainOutput100": null,
+      "auxiliaryOutput100": null,
+      "secondaryOutput100": null,
+      "electricConsumptionRate100": null,
+      "waterConsumptionRate100": null
+    }
+  ],
+  "normalSystemConstant": [
+    //？？？
+    {
+      "id": 164,
+      "mainInputSlope": 1.28830519074421,
+      "mainInputIntercept": 161663.53971232,
+      "auxiliaryOutputSlope": 0.36722951844903,
+      "auxiliaryOutputIntercept": 88364.602876798,
+      "secondaryOutputSlope": null,
+      "secondaryOutputIntercept": null,
+      "electricConsumptionRateSlope": 0.0171666666666667,
+      "electricConsumptionRateIntercept": 2154.16666666667,
+      "waterConsumptionRateSlope": 5.33333333333333e-4,
+      "waterConsumptionRateIntercept": 128.333333333333
+    },
+    {
+      "id": 164,
+      "mainInputSlope": null,
+      "mainInputIntercept": null,
+      "auxiliaryOutputSlope": null,
+      "auxiliaryOutputIntercept": null,
+      "secondaryOutputSlope": null,
+      "secondaryOutputIntercept": null,
+      "electricConsumptionRateSlope": null,
+      "electricConsumptionRateIntercept": null,
+      "waterConsumptionRateSlope": null,
+      "waterConsumptionRateIntercept": null
+    }
+  ],
+  "specialParameter1": null
+}

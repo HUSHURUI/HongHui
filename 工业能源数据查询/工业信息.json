@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "thirdCode": "g010000",
+    "cityCode": "x010100",
+    "unitLandOutputValue": 16600.0,
+    "unitLandTax": 300.0,
+    "unitLandInvest": 2600.0,
+    //？？？没有企业产值预测、企业税收预测、固定资产投资
+    "unitOutputValueConsumption": 0.11,
+    "unitLandEnergyConsumption": 1744.66,
+    //？？？没有综合能源消耗
+    //充电桩信息
+    "perVehicleArea": 25.0,
+    "parkingAreaRate": 0.1,
+    "electricLotsRate": 0.2,
+    "quickChargeRate": 0.25,
+    "quickChargePower": 30.0,
+    "slowChargePower": 7.0,
+    //？？？车场面积、车位数量、充电数量、交流慢充没有
+    "lastTime": null
+}

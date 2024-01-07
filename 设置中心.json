@@ -1,0 +1,191 @@
+{
+  "id": 408,
+  "login": "xjtu",
+  "parameter": {
+    "energyDischarge": {
+      "equivalentCoal": [//折标系数-折合标煤
+        { "name": "煤炭", "unit": "tce/tce", "value": 1 },
+        { "name": "天然气", "unit": "tce/kNm³", "value": 1.2143 },
+        { "name": "电力", "unit": "tce/MWh", "value": 0.1229 },
+        { "name": "采暖", "unit": "tce/GJ", "value": 0.0342 },
+        { "name": "蒸汽", "unit": "tce/t", "value": 0.0973 }
+      ],
+      "dischargeOfCO2": [//排放系数-二氧化碳
+        { "name": "煤炭", "unit": "t/tce", "value": 2.4567 },
+        { "name": "天然气", "unit": "t/kNm³", "value": 1.977 },
+        { "name": "电力", "unit": "t/MWh", "value": 1.0523 },
+        { "name": "采暖", "unit": "t/GJ", "value": 0.0556 },
+        { "name": "蒸汽", "unit": "t/t", "value": 0.1585 }
+      ],
+      "dischargeOfSO2": [//排放系数-二氧化硫
+        { "name": "煤炭", "unit": "t/tce", "value": 0.0165 },
+        { "name": "天然气", "unit": "t/kNm³", "value": 0.0000096 },
+        { "name": "电力", "unit": "t/MWh", "value": 0.008 },
+        { "name": "采暖", "unit": "t/GJ", "value": 2.7e-7 },
+        { "name": "蒸汽", "unit": "t/t", "value": 7.7e-7 }
+      ],
+      "dischargeOfNOx": [//排放系数-氮氧化物
+        { "name": "煤炭", "unit": "t/tce", "value": 0.0156 },
+        { "name": "天然气", "unit": "t/kNm³", "value": 0.0013 },
+        { "name": "电力", "unit": "t/MWh", "value": 0.0069 },
+        { "name": "采暖", "unit": "t/GJ", "value": 0.000036 },
+        { "name": "蒸汽", "unit": "t/t", "value": 0.0001 }
+      ],
+      "dischargeOfPowder": [//排放系数-粉尘颗粒
+        { "name": "煤炭", "unit": "t/tce", "value": 0.0096 },
+        { "name": "天然气", "unit": "t/kNm³", "value": 0 },
+        { "name": "电力", "unit": "t/MWh", "value": 0.0034 },
+        { "name": "采暖", "unit": "t/GJ", "value": 0 },
+        { "name": "蒸汽", "unit": "t/t", "value": 0 }
+      ]
+    },
+    "unitConversion": {//单位换算系数
+      "electric": 1,
+      "gas": 9.87,
+      "airColdWater": 277.78,
+      "airHotWater": 277.78,
+      "coldWater": 17.46,
+      "hotWater60": 46.47,
+      "hotWater95": 87.26,
+      "steam1": 751.13,
+      "steam125": 791.08
+    },
+    "loadingTransferCoeff": {//负荷转移系数
+      "airColdWaterToElectric": 0.4,
+      "airHotWaterToElectric": 0.5,
+      "lifeHotWaterToElectric": 1,
+      "industryColdWaterToElectric": 0.4,
+      "industryHotWaterToElectric": 1,
+      "steamToElectric": 1,
+      "airColdWaterToGas": 0.67,
+      "airHotWaterToGas": 1,
+      "lifeHotWaterToGas": 1,
+      "industryColdWaterToGas": 0.67,
+      "industryHotWaterToGas": 1,
+      "steamToGas": 1
+    },
+    "financialParameter": {
+      //投资估算费率
+      "projectConsultCostRate": 0.02,
+      "projectDesignCostRate": 0.025,
+      "projectSupervisionCostRate": 0.015,
+      "projectManagementCostRate": 0.03,
+      "projectUnforeseenCostRate": 0.05,
+      "projectFlowCostRate": 0.05,
+      //固定资产折旧
+      "depreciationPeriodOfBuilding": 20,
+      "depreciationPeriodOfMachinery": 10,
+      "depreciationPeriodOfOthers": 5,
+      "depreciationResidualValueOfBuilding": 0.05,
+      "depreciationResidualValueOfMachinery": 0.05,
+      "depreciationResidualValueOfOthers": 0.05,
+      "buildingDepreciationRate": 0.0475,
+      "deviceDepreciationRate": 0.095,
+      "otherDepreciationRate": 0.19,
+      //？？？？？？？ 
+      "systemLoadingRate": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      //项目参数
+      "selfOwnedFundsRatio": 0.3,
+      "projectConstructionCycle": 6,
+      "projectOperatingCycle": 30,
+      "insuranceRate": 0.003,
+      "rent": 0,
+      "otherExpenseRatio": 0.02,
+      //光伏系统
+      "maintenanceCostRatio": 0.03,
+      "maintenanceCostIncreaseRatio": 0.01,
+      "efficiency": 0.85,
+      "pricePerUnit": 3.5,
+      "constructionRate": 0,
+      "purchaseRate": 0.85,
+      "installRate": 0.15,
+      "otherRate": 0,
+      //储能系统
+      "maintenanceCostRatioEnergyStorage": 0.03,
+      "maintenanceCostIncreaseRatioEnergyStorage": 0.01,
+      "efficiencyEnergyStorage": 0.9,
+      "ratedDischargeDepth": 0.9,
+      "pricePerUnitEnergyStorage": 1.5,
+      "purchaseRateEnergyStorage": 0.9,
+      "installRateEnergyStorage": 0.1,
+      "constructionRateEnergyStorage": 0,
+      "otherRateEnergyStorage": 0
+    },
+    "taxParameter": {
+      //财税参数
+      "engineeringConstruction": 0.09,
+      "engineeringPurchase": 0.13,
+      "engineeringInstall": 0.09,
+      "engineeringOther": 0.06,
+      "operatingMaintenance": 0.06,
+      "rent": 0.09,
+      "insurance": 0.06,
+      "operatingOther": 0.06,
+      "education": 0.03,
+      "localEducation": 0.02,
+      "urbanMaintenanceAndConstruction": 0.07,
+      "incomeTax": 0.25,
+      "statutorySurplusReserve": 0.1,
+      "discretionarySurplusReserve": 0.05,
+      "standardLoanInterestRate": 0.049,
+      "financialDiscountRate": 0.08,
+      //？？？？？
+      "electricVehicle": 0.13,
+      "electric": 0.13,
+      "heat": 0.09,
+      "gas": 0.09,
+      "LNG": 0.09,
+      "runningWater": 0.09,
+      "steam": 0.09,
+      "industryHotWater": 0.09,
+      "industryColdWater": 0.09,
+      "airColdWater": 0.09,
+      "airHotWater": 0.09,
+      "lifeHotWater": 0.09,
+      "compressedAir": 0.09,
+      "electricSelfUse": 0.13,
+      "electricOnGrid": 0.13
+    },
+    "socialSecurityParameter": {//社保福利
+      "pension": 0.16,
+      "unemploymentInsurance": 0.01,
+      "injuryInsurance": 0.01,
+      "medicalInsurance": 0.11,
+      "housingFund": 0.1,
+      "employeeBenefits": 0.1,
+      "unionFunds": 0.02,
+      "educationFunding": 0.02
+    }
+  }
+}

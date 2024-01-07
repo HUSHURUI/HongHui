@@ -1,0 +1,106 @@
+[
+    {
+        "code": "s00002",
+        "name": "西门子电气SIEMENS",
+        "parentId": null,
+        "children": [
+            {
+                "code": "e0401s00002n00001",
+                "name": "SGT5-2000E-275MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00002n00002",
+                "name": "SGT5-4000F-475MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00002n00003",
+                "name": "SGT5-8000H-665MW",
+                "parentId": null,
+                "children": []
+            }
+        ]
+    },
+    {
+        "code": "s00003",
+        "name": "通用电气GE",
+        "parentId": null,
+        "children": [
+            {
+                "code": "e0401s00003n00001",
+                "name": "LMS100PB+-127MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00002",
+                "name": "LMS100PA+-135MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00003",
+                "name": "GT13E2-2005-264MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00004",
+                "name": "GT13E2-2012-289MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00005",
+                "name": "9E.03-201MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00006",
+                "name": "9E.04-212MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00007",
+                "name": "9F.03-405MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00008",
+                "name": "9F.04-429MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00009",
+                "name": "9F.05-462MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00010",
+                "name": "9F.06-508MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00011",
+                "name": "9HA.01-643MW",
+                "parentId": null,
+                "children": []
+            },
+            {
+                "code": "e0401s00003n00012",
+                "name": "9HA.02-774MW",
+                "parentId": null,
+                "children": []
+            }
+        ]
+    }
+]

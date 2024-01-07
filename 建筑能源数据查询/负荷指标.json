@@ -1,0 +1,48 @@
+[//？？交通电力的前端图片、表格数据显示好像有bug  还有就是
+  {
+    //level=1
+    "electricVehicle": 7.0,
+    "electric": 24.01,
+    "airColdWater": 60.0,
+    "airHotWater": 50.0,
+    "lifeHotWater": 116.67,
+    "gas": 0.11
+  },
+  {
+    //level=2
+    "electricVehicle": 30.0,
+    "electric": 27.08,
+    "airColdWater": 66.0,
+    "airHotWater": 56.0,
+    "lifeHotWater": 141.67,
+    "gas": 0.12
+  },
+  {
+    //level=3
+    "electricVehicle": 60.0,
+    "electric": 30.03,
+    "airColdWater": 72.0,
+    "airHotWater": 62.0,
+    "lifeHotWater": 166.67,
+    "gas": 0.13
+  },
+  {
+    //level=4
+    "electricVehicle": 90.0,
+    "electric": 32.97,
+    "airColdWater": 78.0,
+    "airHotWater": 68.0,
+    "lifeHotWater": 191.67,
+    "gas": 0.14
+  },
+  {
+    //level=5
+    "electricVehicle": 120.0,
+    "electric": 35.92,
+    "airColdWater": 84.0,
+    "airHotWater": 74.0,
+    "lifeHotWater": 216.67,
+    "gas": 0.15
+  }
+]//大概是等差数列
+//建筑类型与负荷有关。城市无关。

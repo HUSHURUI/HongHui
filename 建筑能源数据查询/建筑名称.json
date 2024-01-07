@@ -1,0 +1,2301 @@
+[//291个建筑
+    {
+        "code": "j01",
+        "name": "居住建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0100",
+                "name": "居住建筑",
+                "parentId": "j01",
+                "children": [
+                    {
+                        "code": "j010000",
+                        "name": "居住建筑",
+                        "parentId": "j0100",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0101",
+                "name": "住宅建筑",
+                "parentId": "j01",
+                "children": [
+                    {
+                        "code": "j010100",
+                        "name": "住宅建筑",
+                        "parentId": "j0101",
+                        "children": []
+                    },
+                    {
+                        "code": "j010101",
+                        "name": "低层住宅建筑",
+                        "parentId": "j0101",
+                        "children": []
+                    },
+                    {
+                        "code": "j010102",
+                        "name": "多层住宅建筑",
+                        "parentId": "j0101",
+                        "children": []
+                    },
+                    {
+                        "code": "j010103",
+                        "name": "中高层住宅建筑",
+                        "parentId": "j0101",
+                        "children": []
+                    },
+                    {
+                        "code": "j010104",
+                        "name": "高层住宅建筑",
+                        "parentId": "j0101",
+                        "children": []
+                    },
+                    {
+                        "code": "j010105",
+                        "name": "超高层住宅建筑",
+                        "parentId": "j0101",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0102",
+                "name": "公寓建筑",
+                "parentId": "j01",
+                "children": [
+                    {
+                        "code": "j010200",
+                        "name": "公寓建筑",
+                        "parentId": "j0102",
+                        "children": []
+                    },
+                    {
+                        "code": "j010201",
+                        "name": "低层公寓建筑",
+                        "parentId": "j0102",
+                        "children": []
+                    },
+                    {
+                        "code": "j010202",
+                        "name": "多层公寓建筑",
+                        "parentId": "j0102",
+                        "children": []
+                    },
+                    {
+                        "code": "j010203",
+                        "name": "中高层公寓建筑",
+                        "parentId": "j0102",
+                        "children": []
+                    },
+                    {
+                        "code": "j010204",
+                        "name": "高层公寓建筑",
+                        "parentId": "j0102",
+                        "children": []
+                    },
+                    {
+                        "code": "j010205",
+                        "name": "超高层公寓建筑",
+                        "parentId": "j0102",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0103",
+                "name": "别墅建筑",
+                "parentId": "j01",
+                "children": [
+                    {
+                        "code": "j010300",
+                        "name": "别墅建筑",
+                        "parentId": "j0103",
+                        "children": []
+                    },
+                    {
+                        "code": "j010301",
+                        "name": "独栋别墅建筑",
+                        "parentId": "j0103",
+                        "children": []
+                    },
+                    {
+                        "code": "j010302",
+                        "name": "双拼别墅建筑",
+                        "parentId": "j0103",
+                        "children": []
+                    },
+                    {
+                        "code": "j010303",
+                        "name": "联排别墅建筑",
+                        "parentId": "j0103",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0104",
+                "name": "其他附属建筑",
+                "parentId": "j01",
+                "children": [
+                    {
+                        "code": "j010400",
+                        "name": "其他附属建筑",
+                        "parentId": "j0104",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j02",
+        "name": "办公建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0200",
+                "name": "办公建筑",
+                "parentId": "j02",
+                "children": [
+                    {
+                        "code": "j020000",
+                        "name": "办公建筑",
+                        "parentId": "j0200",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0201",
+                "name": "行政办公建筑",
+                "parentId": "j02",
+                "children": [
+                    {
+                        "code": "j020100",
+                        "name": "行政办公建筑",
+                        "parentId": "j0201",
+                        "children": []
+                    },
+                    {
+                        "code": "j020101",
+                        "name": "单层行政办公建筑",
+                        "parentId": "j0201",
+                        "children": []
+                    },
+                    {
+                        "code": "j020102",
+                        "name": "多层行政办公建筑",
+                        "parentId": "j0201",
+                        "children": []
+                    },
+                    {
+                        "code": "j020103",
+                        "name": "高层行政办公建筑",
+                        "parentId": "j0201",
+                        "children": []
+                    },
+                    {
+                        "code": "j020104",
+                        "name": "超高层行政办公建筑",
+                        "parentId": "j0201",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0202",
+                "name": "事业办公建筑",
+                "parentId": "j02",
+                "children": [
+                    {
+                        "code": "j020200",
+                        "name": "事业办公建筑",
+                        "parentId": "j0202",
+                        "children": []
+                    },
+                    {
+                        "code": "j020201",
+                        "name": "单层事业办公建筑",
+                        "parentId": "j0202",
+                        "children": []
+                    },
+                    {
+                        "code": "j020202",
+                        "name": "多层事业办公建筑",
+                        "parentId": "j0202",
+                        "children": []
+                    },
+                    {
+                        "code": "j020203",
+                        "name": "高层事业办公建筑",
+                        "parentId": "j0202",
+                        "children": []
+                    },
+                    {
+                        "code": "j020204",
+                        "name": "超高层事业办公建筑",
+                        "parentId": "j0202",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0203",
+                "name": "企业办公建筑",
+                "parentId": "j02",
+                "children": [
+                    {
+                        "code": "j020300",
+                        "name": "企业办公建筑",
+                        "parentId": "j0203",
+                        "children": []
+                    },
+                    {
+                        "code": "j020301",
+                        "name": "单层企业办公建筑",
+                        "parentId": "j0203",
+                        "children": []
+                    },
+                    {
+                        "code": "j020302",
+                        "name": "多层企业办公建筑",
+                        "parentId": "j0203",
+                        "children": []
+                    },
+                    {
+                        "code": "j020303",
+                        "name": "高层企业办公建筑",
+                        "parentId": "j0203",
+                        "children": []
+                    },
+                    {
+                        "code": "j020304",
+                        "name": "超高层企业办公建筑",
+                        "parentId": "j0203",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0204",
+                "name": "商业办公建筑",
+                "parentId": "j02",
+                "children": [
+                    {
+                        "code": "j020400",
+                        "name": "商业办公建筑",
+                        "parentId": "j0204",
+                        "children": []
+                    },
+                    {
+                        "code": "j020401",
+                        "name": "单层商业办公建筑",
+                        "parentId": "j0204",
+                        "children": []
+                    },
+                    {
+                        "code": "j020402",
+                        "name": "多层商业办公建筑",
+                        "parentId": "j0204",
+                        "children": []
+                    },
+                    {
+                        "code": "j020403",
+                        "name": "高层商业办公建筑",
+                        "parentId": "j0204",
+                        "children": []
+                    },
+                    {
+                        "code": "j020404",
+                        "name": "超高层商业办公建筑",
+                        "parentId": "j0204",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0205",
+                "name": "其他附属建筑",
+                "parentId": "j02",
+                "children": [
+                    {
+                        "code": "j020500",
+                        "name": "其他附属建筑",
+                        "parentId": "j0205",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j03",
+        "name": "商业建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0300",
+                "name": "商业建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030000",
+                        "name": "商业建筑",
+                        "parentId": "j0300",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0301",
+                "name": "综合商业广场建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030100",
+                        "name": "综合商业广场建筑",
+                        "parentId": "j0301",
+                        "children": []
+                    },
+                    {
+                        "code": "j030101",
+                        "name": "超大型综合商业广场建筑",
+                        "parentId": "j0301",
+                        "children": []
+                    },
+                    {
+                        "code": "j030102",
+                        "name": "大型综合商业广场建筑",
+                        "parentId": "j0301",
+                        "children": []
+                    },
+                    {
+                        "code": "j030103",
+                        "name": "中型综合商业广场建筑",
+                        "parentId": "j0301",
+                        "children": []
+                    },
+                    {
+                        "code": "j030104",
+                        "name": "小型综合商业广场建筑",
+                        "parentId": "j0301",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0302",
+                "name": "综合商业街区建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030200",
+                        "name": "综合商业街区建筑",
+                        "parentId": "j0302",
+                        "children": []
+                    },
+                    {
+                        "code": "j030201",
+                        "name": "超大型综合商业街区建筑",
+                        "parentId": "j0302",
+                        "children": []
+                    },
+                    {
+                        "code": "j030202",
+                        "name": "大型综合商业街区建筑",
+                        "parentId": "j0302",
+                        "children": []
+                    },
+                    {
+                        "code": "j030203",
+                        "name": "中型综合商业街区建筑",
+                        "parentId": "j0302",
+                        "children": []
+                    },
+                    {
+                        "code": "j030204",
+                        "name": "小型综合商业街区建筑",
+                        "parentId": "j0302",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0303",
+                "name": "购物广场建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030300",
+                        "name": "购物广场建筑",
+                        "parentId": "j0303",
+                        "children": []
+                    },
+                    {
+                        "code": "j030301",
+                        "name": "超大型购物广场建筑",
+                        "parentId": "j0303",
+                        "children": []
+                    },
+                    {
+                        "code": "j030302",
+                        "name": "大型购物广场建筑",
+                        "parentId": "j0303",
+                        "children": []
+                    },
+                    {
+                        "code": "j030303",
+                        "name": "中型购物广场建筑",
+                        "parentId": "j0303",
+                        "children": []
+                    },
+                    {
+                        "code": "j030304",
+                        "name": "小型购物广场建筑",
+                        "parentId": "j0303",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0304",
+                "name": "餐饮广场建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030400",
+                        "name": "餐饮广场建筑",
+                        "parentId": "j0304",
+                        "children": []
+                    },
+                    {
+                        "code": "j030401",
+                        "name": "超大型餐饮广场建筑",
+                        "parentId": "j0304",
+                        "children": []
+                    },
+                    {
+                        "code": "j030402",
+                        "name": "大型餐饮广场建筑",
+                        "parentId": "j0304",
+                        "children": []
+                    },
+                    {
+                        "code": "j030403",
+                        "name": "中型餐饮广场建筑",
+                        "parentId": "j0304",
+                        "children": []
+                    },
+                    {
+                        "code": "j030404",
+                        "name": "小型餐饮广场建筑",
+                        "parentId": "j0304",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0305",
+                "name": "体验广场建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030500",
+                        "name": "体验广场建筑",
+                        "parentId": "j0305",
+                        "children": []
+                    },
+                    {
+                        "code": "j030501",
+                        "name": "超大型体验广场建筑",
+                        "parentId": "j0305",
+                        "children": []
+                    },
+                    {
+                        "code": "j030502",
+                        "name": "大型体验广场建筑",
+                        "parentId": "j0305",
+                        "children": []
+                    },
+                    {
+                        "code": "j030503",
+                        "name": "中型体验广场建筑",
+                        "parentId": "j0305",
+                        "children": []
+                    },
+                    {
+                        "code": "j030504",
+                        "name": "小型体验广场建筑",
+                        "parentId": "j0305",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0306",
+                "name": "百货商场建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030600",
+                        "name": "百货商场建筑",
+                        "parentId": "j0306",
+                        "children": []
+                    },
+                    {
+                        "code": "j030601",
+                        "name": "超大型百货商场建筑",
+                        "parentId": "j0306",
+                        "children": []
+                    },
+                    {
+                        "code": "j030602",
+                        "name": "大型百货商场建筑",
+                        "parentId": "j0306",
+                        "children": []
+                    },
+                    {
+                        "code": "j030603",
+                        "name": "中型百货商场建筑",
+                        "parentId": "j0306",
+                        "children": []
+                    },
+                    {
+                        "code": "j030604",
+                        "name": "小型百货商场建筑",
+                        "parentId": "j0306",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0307",
+                "name": "零售商场建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030700",
+                        "name": "零售商场建筑",
+                        "parentId": "j0307",
+                        "children": []
+                    },
+                    {
+                        "code": "j030701",
+                        "name": "仓储综合超市建筑",
+                        "parentId": "j0307",
+                        "children": []
+                    },
+                    {
+                        "code": "j030702",
+                        "name": "大型综合超市建筑",
+                        "parentId": "j0307",
+                        "children": []
+                    },
+                    {
+                        "code": "j030703",
+                        "name": "普通综合超市建筑",
+                        "parentId": "j0307",
+                        "children": []
+                    },
+                    {
+                        "code": "j030704",
+                        "name": "社区综合超市建筑",
+                        "parentId": "j0307",
+                        "children": []
+                    },
+                    {
+                        "code": "j030705",
+                        "name": "便利商店建筑",
+                        "parentId": "j0307",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0308",
+                "name": "其他附属建筑",
+                "parentId": "j03",
+                "children": [
+                    {
+                        "code": "j030800",
+                        "name": "其他附属建筑",
+                        "parentId": "j0308",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j04",
+        "name": "酒店建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0400",
+                "name": "酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040000",
+                        "name": "酒店建筑",
+                        "parentId": "j0400",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0401",
+                "name": "超星级酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040100",
+                        "name": "超星级酒店建筑",
+                        "parentId": "j0401",
+                        "children": []
+                    },
+                    {
+                        "code": "j040101",
+                        "name": "客房建筑",
+                        "parentId": "j0401",
+                        "children": []
+                    },
+                    {
+                        "code": "j040102",
+                        "name": "餐饮建筑",
+                        "parentId": "j0401",
+                        "children": []
+                    },
+                    {
+                        "code": "j040103",
+                        "name": "商务建筑",
+                        "parentId": "j0401",
+                        "children": []
+                    },
+                    {
+                        "code": "j040104",
+                        "name": "娱乐建筑",
+                        "parentId": "j0401",
+                        "children": []
+                    },
+                    {
+                        "code": "j040105",
+                        "name": "运动建筑",
+                        "parentId": "j0401",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0402",
+                "name": "五星级酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040200",
+                        "name": "五星级酒店建筑",
+                        "parentId": "j0402",
+                        "children": []
+                    },
+                    {
+                        "code": "j040201",
+                        "name": "客房建筑",
+                        "parentId": "j0402",
+                        "children": []
+                    },
+                    {
+                        "code": "j040202",
+                        "name": "餐饮建筑",
+                        "parentId": "j0402",
+                        "children": []
+                    },
+                    {
+                        "code": "j040203",
+                        "name": "商务建筑",
+                        "parentId": "j0402",
+                        "children": []
+                    },
+                    {
+                        "code": "j040204",
+                        "name": "娱乐建筑",
+                        "parentId": "j0402",
+                        "children": []
+                    },
+                    {
+                        "code": "j040205",
+                        "name": "运动建筑",
+                        "parentId": "j0402",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0403",
+                "name": "四星级酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040300",
+                        "name": "四星级酒店建筑",
+                        "parentId": "j0403",
+                        "children": []
+                    },
+                    {
+                        "code": "j040301",
+                        "name": "客房建筑",
+                        "parentId": "j0403",
+                        "children": []
+                    },
+                    {
+                        "code": "j040302",
+                        "name": "餐饮建筑",
+                        "parentId": "j0403",
+                        "children": []
+                    },
+                    {
+                        "code": "j040303",
+                        "name": "商务建筑",
+                        "parentId": "j0403",
+                        "children": []
+                    },
+                    {
+                        "code": "j040304",
+                        "name": "娱乐建筑",
+                        "parentId": "j0403",
+                        "children": []
+                    },
+                    {
+                        "code": "j040305",
+                        "name": "运动建筑",
+                        "parentId": "j0403",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0404",
+                "name": "三星级酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040400",
+                        "name": "三星级酒店建筑",
+                        "parentId": "j0404",
+                        "children": []
+                    },
+                    {
+                        "code": "j040401",
+                        "name": "客房建筑",
+                        "parentId": "j0404",
+                        "children": []
+                    },
+                    {
+                        "code": "j040402",
+                        "name": "餐饮建筑",
+                        "parentId": "j0404",
+                        "children": []
+                    },
+                    {
+                        "code": "j040403",
+                        "name": "商务建筑",
+                        "parentId": "j0404",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0405",
+                "name": "高端连锁酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040500",
+                        "name": "高端连锁酒店建筑",
+                        "parentId": "j0405",
+                        "children": []
+                    },
+                    {
+                        "code": "j040501",
+                        "name": "客房建筑",
+                        "parentId": "j0405",
+                        "children": []
+                    },
+                    {
+                        "code": "j040502",
+                        "name": "餐饮建筑",
+                        "parentId": "j0405",
+                        "children": []
+                    },
+                    {
+                        "code": "j040503",
+                        "name": "商务建筑",
+                        "parentId": "j0405",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0406",
+                "name": "中端连锁酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040600",
+                        "name": "中端连锁酒店建筑",
+                        "parentId": "j0406",
+                        "children": []
+                    },
+                    {
+                        "code": "j040601",
+                        "name": "客房建筑",
+                        "parentId": "j0406",
+                        "children": []
+                    },
+                    {
+                        "code": "j040602",
+                        "name": "餐饮建筑",
+                        "parentId": "j0406",
+                        "children": []
+                    },
+                    {
+                        "code": "j040603",
+                        "name": "商务建筑",
+                        "parentId": "j0406",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0407",
+                "name": "快捷连锁酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040700",
+                        "name": "快捷连锁酒店建筑",
+                        "parentId": "j0407",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0408",
+                "name": "公寓式酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040800",
+                        "name": "公寓式酒店建筑",
+                        "parentId": "j0408",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0409",
+                "name": "其他经济型酒店建筑",
+                "parentId": "j04",
+                "children": [
+                    {
+                        "code": "j040900",
+                        "name": "其他经济型酒店建筑",
+                        "parentId": "j0409",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j05",
+        "name": "医疗建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0500",
+                "name": "医疗建筑",
+                "parentId": "j05",
+                "children": [
+                    {
+                        "code": "j050000",
+                        "name": "医疗建筑",
+                        "parentId": "j0500",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0501",
+                "name": "三级医院建筑",
+                "parentId": "j05",
+                "children": [
+                    {
+                        "code": "j050100",
+                        "name": "三级医院建筑",
+                        "parentId": "j0501",
+                        "children": []
+                    },
+                    {
+                        "code": "j050101",
+                        "name": "住院建筑",
+                        "parentId": "j0501",
+                        "children": []
+                    },
+                    {
+                        "code": "j050102",
+                        "name": "诊疗建筑",
+                        "parentId": "j0501",
+                        "children": []
+                    },
+                    {
+                        "code": "j050103",
+                        "name": "科研检测建筑",
+                        "parentId": "j0501",
+                        "children": []
+                    },
+                    {
+                        "code": "j050104",
+                        "name": "行政办公建筑",
+                        "parentId": "j0501",
+                        "children": []
+                    },
+                    {
+                        "code": "j050105",
+                        "name": "其他附属建筑",
+                        "parentId": "j0501",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0502",
+                "name": "二级医院建筑",
+                "parentId": "j05",
+                "children": [
+                    {
+                        "code": "j050200",
+                        "name": "二级医院建筑",
+                        "parentId": "j0502",
+                        "children": []
+                    },
+                    {
+                        "code": "j050201",
+                        "name": "住院建筑",
+                        "parentId": "j0502",
+                        "children": []
+                    },
+                    {
+                        "code": "j050202",
+                        "name": "诊疗建筑",
+                        "parentId": "j0502",
+                        "children": []
+                    },
+                    {
+                        "code": "j050203",
+                        "name": "科研检测建筑",
+                        "parentId": "j0502",
+                        "children": []
+                    },
+                    {
+                        "code": "j050204",
+                        "name": "行政办公建筑",
+                        "parentId": "j0502",
+                        "children": []
+                    },
+                    {
+                        "code": "j050205",
+                        "name": "其他附属建筑",
+                        "parentId": "j0502",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0503",
+                "name": "一级医院建筑",
+                "parentId": "j05",
+                "children": [
+                    {
+                        "code": "j050300",
+                        "name": "一级医院建筑",
+                        "parentId": "j0503",
+                        "children": []
+                    },
+                    {
+                        "code": "j050301",
+                        "name": "住院建筑",
+                        "parentId": "j0503",
+                        "children": []
+                    },
+                    {
+                        "code": "j050302",
+                        "name": "诊疗建筑",
+                        "parentId": "j0503",
+                        "children": []
+                    },
+                    {
+                        "code": "j050303",
+                        "name": "科研检测建筑",
+                        "parentId": "j0503",
+                        "children": []
+                    },
+                    {
+                        "code": "j050304",
+                        "name": "行政办公建筑",
+                        "parentId": "j0503",
+                        "children": []
+                    },
+                    {
+                        "code": "j050305",
+                        "name": "其他附属建筑",
+                        "parentId": "j0503",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0504",
+                "name": "疗养医院建筑",
+                "parentId": "j05",
+                "children": [
+                    {
+                        "code": "j050400",
+                        "name": "疗养医院建筑",
+                        "parentId": "j0504",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j06",
+        "name": "教育建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0600",
+                "name": "教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060000",
+                        "name": "教育建筑",
+                        "parentId": "j0600",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0601",
+                "name": "普通高等教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060100",
+                        "name": "普通高等教育建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060101",
+                        "name": "教学建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060102",
+                        "name": "住宿建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060103",
+                        "name": "餐饮建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060104",
+                        "name": "行政办公建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060105",
+                        "name": "教研办公建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060106",
+                        "name": "科研实验建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060107",
+                        "name": "会议中心建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060108",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060109",
+                        "name": "体育运动建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    },
+                    {
+                        "code": "j060110",
+                        "name": "其他附属建筑",
+                        "parentId": "j0601",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0602",
+                "name": "专业高等教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060200",
+                        "name": "专业高等教育建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060201",
+                        "name": "教学建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060202",
+                        "name": "住宿建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060203",
+                        "name": "餐饮建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060204",
+                        "name": "行政办公建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060205",
+                        "name": "教研办公建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060206",
+                        "name": "科研实验建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060207",
+                        "name": "会议中心建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060208",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060209",
+                        "name": "体育运动建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    },
+                    {
+                        "code": "j060210",
+                        "name": "其他附属建筑",
+                        "parentId": "j0602",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0603",
+                "name": "普通中等教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060300",
+                        "name": "普通中等教育建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060301",
+                        "name": "教学建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060302",
+                        "name": "住宿建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060303",
+                        "name": "餐饮建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060304",
+                        "name": "行政办公建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060305",
+                        "name": "教研办公建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060306",
+                        "name": "科研实验建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060307",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060308",
+                        "name": "体育运动建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    },
+                    {
+                        "code": "j060309",
+                        "name": "其他附属建筑",
+                        "parentId": "j0603",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0604",
+                "name": "专业中等教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060400",
+                        "name": "专业中等教育建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060401",
+                        "name": "教学建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060402",
+                        "name": "住宿建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060403",
+                        "name": "餐饮建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060404",
+                        "name": "行政办公建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060405",
+                        "name": "教研办公建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060406",
+                        "name": "科研实验建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060407",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060408",
+                        "name": "体育运动建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    },
+                    {
+                        "code": "j060409",
+                        "name": "其他附属建筑",
+                        "parentId": "j0604",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0605",
+                "name": "初等教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060500",
+                        "name": "初等教育建筑",
+                        "parentId": "j0605",
+                        "children": []
+                    },
+                    {
+                        "code": "j060501",
+                        "name": "教学建筑",
+                        "parentId": "j0605",
+                        "children": []
+                    },
+                    {
+                        "code": "j060502",
+                        "name": "办公建筑",
+                        "parentId": "j0605",
+                        "children": []
+                    },
+                    {
+                        "code": "j060503",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0605",
+                        "children": []
+                    },
+                    {
+                        "code": "j060504",
+                        "name": "体育运动建筑",
+                        "parentId": "j0605",
+                        "children": []
+                    },
+                    {
+                        "code": "j060505",
+                        "name": "其他附属建筑",
+                        "parentId": "j0605",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0606",
+                "name": "学前教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060600",
+                        "name": "学前教育建筑",
+                        "parentId": "j0606",
+                        "children": []
+                    },
+                    {
+                        "code": "j060601",
+                        "name": "教学建筑",
+                        "parentId": "j0606",
+                        "children": []
+                    },
+                    {
+                        "code": "j060602",
+                        "name": "办公建筑",
+                        "parentId": "j0606",
+                        "children": []
+                    },
+                    {
+                        "code": "j060603",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0606",
+                        "children": []
+                    },
+                    {
+                        "code": "j060604",
+                        "name": "体育运动建筑",
+                        "parentId": "j0606",
+                        "children": []
+                    },
+                    {
+                        "code": "j060605",
+                        "name": "其他附属建筑",
+                        "parentId": "j0606",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0607",
+                "name": "非学历教育建筑",
+                "parentId": "j06",
+                "children": [
+                    {
+                        "code": "j060700",
+                        "name": "非学历教育建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060701",
+                        "name": "教学建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060702",
+                        "name": "住宿建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060703",
+                        "name": "餐饮建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060704",
+                        "name": "行政办公建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060705",
+                        "name": "教研办公建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060706",
+                        "name": "科研实验建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060707",
+                        "name": "会议中心建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060708",
+                        "name": "图书阅览建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060709",
+                        "name": "体育运动建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    },
+                    {
+                        "code": "j060710",
+                        "name": "其他附属建筑",
+                        "parentId": "j0607",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j07",
+        "name": "场馆建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0700",
+                "name": "场馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070000",
+                        "name": "场馆建筑",
+                        "parentId": "j0700",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0701",
+                "name": "图书馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070100",
+                        "name": "图书馆建筑",
+                        "parentId": "j0701",
+                        "children": []
+                    },
+                    {
+                        "code": "j070101",
+                        "name": "超大型图书馆建筑",
+                        "parentId": "j0701",
+                        "children": []
+                    },
+                    {
+                        "code": "j070102",
+                        "name": "大型图书馆建筑",
+                        "parentId": "j0701",
+                        "children": []
+                    },
+                    {
+                        "code": "j070103",
+                        "name": "中型图书馆建筑",
+                        "parentId": "j0701",
+                        "children": []
+                    },
+                    {
+                        "code": "j070104",
+                        "name": "小型图书馆建筑",
+                        "parentId": "j0701",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0702",
+                "name": "博物馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070200",
+                        "name": "博物馆建筑",
+                        "parentId": "j0702",
+                        "children": []
+                    },
+                    {
+                        "code": "j070201",
+                        "name": "超大型博物馆建筑",
+                        "parentId": "j0702",
+                        "children": []
+                    },
+                    {
+                        "code": "j070202",
+                        "name": "大型博物馆建筑",
+                        "parentId": "j0702",
+                        "children": []
+                    },
+                    {
+                        "code": "j070203",
+                        "name": "中型博物馆建筑",
+                        "parentId": "j0702",
+                        "children": []
+                    },
+                    {
+                        "code": "j070204",
+                        "name": "小型博物馆建筑",
+                        "parentId": "j0702",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0703",
+                "name": "纪念馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070300",
+                        "name": "纪念馆建筑",
+                        "parentId": "j0703",
+                        "children": []
+                    },
+                    {
+                        "code": "j070301",
+                        "name": "超大型纪念馆建筑",
+                        "parentId": "j0703",
+                        "children": []
+                    },
+                    {
+                        "code": "j070302",
+                        "name": "大型纪念馆建筑",
+                        "parentId": "j0703",
+                        "children": []
+                    },
+                    {
+                        "code": "j070303",
+                        "name": "中型纪念馆建筑",
+                        "parentId": "j0703",
+                        "children": []
+                    },
+                    {
+                        "code": "j070304",
+                        "name": "小型纪念馆建筑",
+                        "parentId": "j0703",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0704",
+                "name": "展览馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070400",
+                        "name": "展览馆建筑",
+                        "parentId": "j0704",
+                        "children": []
+                    },
+                    {
+                        "code": "j070401",
+                        "name": "超大型展览馆建筑",
+                        "parentId": "j0704",
+                        "children": []
+                    },
+                    {
+                        "code": "j070402",
+                        "name": "大型展览馆建筑",
+                        "parentId": "j0704",
+                        "children": []
+                    },
+                    {
+                        "code": "j070403",
+                        "name": "中型展览馆建筑",
+                        "parentId": "j0704",
+                        "children": []
+                    },
+                    {
+                        "code": "j070404",
+                        "name": "小型展览馆建筑",
+                        "parentId": "j0704",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0705",
+                "name": "影剧院建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070500",
+                        "name": "影剧院建筑",
+                        "parentId": "j0705",
+                        "children": []
+                    },
+                    {
+                        "code": "j070501",
+                        "name": "超大型影剧院建筑",
+                        "parentId": "j0705",
+                        "children": []
+                    },
+                    {
+                        "code": "j070502",
+                        "name": "大型影剧院建筑",
+                        "parentId": "j0705",
+                        "children": []
+                    },
+                    {
+                        "code": "j070503",
+                        "name": "中型影剧院建筑",
+                        "parentId": "j0705",
+                        "children": []
+                    },
+                    {
+                        "code": "j070504",
+                        "name": "小型影剧院建筑",
+                        "parentId": "j0705",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0706",
+                "name": "音乐厅建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070600",
+                        "name": "音乐厅建筑",
+                        "parentId": "j0706",
+                        "children": []
+                    },
+                    {
+                        "code": "j070601",
+                        "name": "超大型音乐厅建筑",
+                        "parentId": "j0706",
+                        "children": []
+                    },
+                    {
+                        "code": "j070602",
+                        "name": "大型音乐厅建筑",
+                        "parentId": "j0706",
+                        "children": []
+                    },
+                    {
+                        "code": "j070603",
+                        "name": "中型音乐厅建筑",
+                        "parentId": "j0706",
+                        "children": []
+                    },
+                    {
+                        "code": "j070604",
+                        "name": "小型音乐厅建筑",
+                        "parentId": "j0706",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0707",
+                "name": "体育馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070700",
+                        "name": "体育馆建筑",
+                        "parentId": "j0707",
+                        "children": []
+                    },
+                    {
+                        "code": "j070701",
+                        "name": "超大型体育馆建筑",
+                        "parentId": "j0707",
+                        "children": []
+                    },
+                    {
+                        "code": "j070702",
+                        "name": "大型体育馆建筑",
+                        "parentId": "j0707",
+                        "children": []
+                    },
+                    {
+                        "code": "j070703",
+                        "name": "中型体育馆建筑",
+                        "parentId": "j0707",
+                        "children": []
+                    },
+                    {
+                        "code": "j070704",
+                        "name": "小型体育馆建筑",
+                        "parentId": "j0707",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0708",
+                "name": "游泳馆建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070800",
+                        "name": "游泳馆建筑",
+                        "parentId": "j0708",
+                        "children": []
+                    },
+                    {
+                        "code": "j070801",
+                        "name": "超大型游泳馆建筑",
+                        "parentId": "j0708",
+                        "children": []
+                    },
+                    {
+                        "code": "j070802",
+                        "name": "大型游泳馆建筑",
+                        "parentId": "j0708",
+                        "children": []
+                    },
+                    {
+                        "code": "j070803",
+                        "name": "中型游泳馆建筑",
+                        "parentId": "j0708",
+                        "children": []
+                    },
+                    {
+                        "code": "j070804",
+                        "name": "小型游泳馆建筑",
+                        "parentId": "j0708",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0709",
+                "name": "会展中心建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j070900",
+                        "name": "会展中心建筑",
+                        "parentId": "j0709",
+                        "children": []
+                    },
+                    {
+                        "code": "j070901",
+                        "name": "超大型会展中心建筑",
+                        "parentId": "j0709",
+                        "children": []
+                    },
+                    {
+                        "code": "j070902",
+                        "name": "大型会展中心建筑",
+                        "parentId": "j0709",
+                        "children": []
+                    },
+                    {
+                        "code": "j070903",
+                        "name": "中型会展中心建筑",
+                        "parentId": "j0709",
+                        "children": []
+                    },
+                    {
+                        "code": "j070904",
+                        "name": "小型会展中心建筑",
+                        "parentId": "j0709",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0710",
+                "name": "会议中心建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j071000",
+                        "name": "会议中心建筑",
+                        "parentId": "j0710",
+                        "children": []
+                    },
+                    {
+                        "code": "j071001",
+                        "name": "超大型会议中心建筑",
+                        "parentId": "j0710",
+                        "children": []
+                    },
+                    {
+                        "code": "j071002",
+                        "name": "大型会议中心建筑",
+                        "parentId": "j0710",
+                        "children": []
+                    },
+                    {
+                        "code": "j071003",
+                        "name": "中型会议中心建筑",
+                        "parentId": "j0710",
+                        "children": []
+                    },
+                    {
+                        "code": "j071004",
+                        "name": "小型会议中心建筑",
+                        "parentId": "j0710",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0711",
+                "name": "其他附属建筑",
+                "parentId": "j07",
+                "children": [
+                    {
+                        "code": "j071100",
+                        "name": "其他附属建筑",
+                        "parentId": "j0711",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j08",
+        "name": "交通建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0800",
+                "name": "交通建筑",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080000",
+                        "name": "交通建筑",
+                        "parentId": "j0800",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0801",
+                "name": "铁路交通枢纽",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080100",
+                        "name": "铁路交通枢纽",
+                        "parentId": "j0801",
+                        "children": []
+                    },
+                    {
+                        "code": "j080101",
+                        "name": "超大型铁路交通枢纽",
+                        "parentId": "j0801",
+                        "children": []
+                    },
+                    {
+                        "code": "j080102",
+                        "name": "大型铁路交通枢纽",
+                        "parentId": "j0801",
+                        "children": []
+                    },
+                    {
+                        "code": "j080103",
+                        "name": "中型铁路交通枢纽",
+                        "parentId": "j0801",
+                        "children": []
+                    },
+                    {
+                        "code": "j080104",
+                        "name": "小型铁路交通枢纽",
+                        "parentId": "j0801",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0802",
+                "name": "公路交通枢纽",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080200",
+                        "name": "公路交通枢纽",
+                        "parentId": "j0802",
+                        "children": []
+                    },
+                    {
+                        "code": "j080201",
+                        "name": "超大型公路交通枢纽",
+                        "parentId": "j0802",
+                        "children": []
+                    },
+                    {
+                        "code": "j080202",
+                        "name": "大型公路交通枢纽",
+                        "parentId": "j0802",
+                        "children": []
+                    },
+                    {
+                        "code": "j080203",
+                        "name": "中型公路交通枢纽",
+                        "parentId": "j0802",
+                        "children": []
+                    },
+                    {
+                        "code": "j080204",
+                        "name": "小型公路交通枢纽",
+                        "parentId": "j0802",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0803",
+                "name": "水路交通枢纽",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080300",
+                        "name": "水路交通枢纽",
+                        "parentId": "j0803",
+                        "children": []
+                    },
+                    {
+                        "code": "j080301",
+                        "name": "超大型水路交通枢纽",
+                        "parentId": "j0803",
+                        "children": []
+                    },
+                    {
+                        "code": "j080302",
+                        "name": "大型水路交通枢纽",
+                        "parentId": "j0803",
+                        "children": []
+                    },
+                    {
+                        "code": "j080303",
+                        "name": "中型水路交通枢纽",
+                        "parentId": "j0803",
+                        "children": []
+                    },
+                    {
+                        "code": "j080304",
+                        "name": "小型水路交通枢纽",
+                        "parentId": "j0803",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0804",
+                "name": "航空交通枢纽",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080400",
+                        "name": "航空交通枢纽",
+                        "parentId": "j0804",
+                        "children": []
+                    },
+                    {
+                        "code": "j080401",
+                        "name": "超大型航空交通枢纽",
+                        "parentId": "j0804",
+                        "children": []
+                    },
+                    {
+                        "code": "j080402",
+                        "name": "大型航空交通枢纽",
+                        "parentId": "j0804",
+                        "children": []
+                    },
+                    {
+                        "code": "j080403",
+                        "name": "中型航空交通枢纽",
+                        "parentId": "j0804",
+                        "children": []
+                    },
+                    {
+                        "code": "j080404",
+                        "name": "小型航空交通枢纽",
+                        "parentId": "j0804",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0805",
+                "name": "城市地面交通枢纽",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080500",
+                        "name": "城市地面交通枢纽",
+                        "parentId": "j0805",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0806",
+                "name": "城市轨道交通枢纽",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080600",
+                        "name": "城市轨道交通枢纽",
+                        "parentId": "j0806",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0807",
+                "name": "其他附属建筑",
+                "parentId": "j08",
+                "children": [
+                    {
+                        "code": "j080700",
+                        "name": "其他附属建筑",
+                        "parentId": "j0807",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "j09",
+        "name": "工业建筑",
+        "parentId": null,
+        "children": [
+            {
+                "code": "j0900",
+                "name": "工业建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090000",
+                        "name": "工业建筑",
+                        "parentId": "j0900",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0901",
+                "name": "生产车间建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090100",
+                        "name": "生产车间建筑",
+                        "parentId": "j0901",
+                        "children": []
+                    },
+                    {
+                        "code": "j090101",
+                        "name": "单层生产车间建筑",
+                        "parentId": "j0901",
+                        "children": []
+                    },
+                    {
+                        "code": "j090102",
+                        "name": "多层生产车间建筑",
+                        "parentId": "j0901",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0902",
+                "name": "辅助车间建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090200",
+                        "name": "辅助车间建筑",
+                        "parentId": "j0902",
+                        "children": []
+                    },
+                    {
+                        "code": "j090201",
+                        "name": "单层辅助车间建筑",
+                        "parentId": "j0902",
+                        "children": []
+                    },
+                    {
+                        "code": "j090202",
+                        "name": "多层辅助车间建筑",
+                        "parentId": "j0902",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0903",
+                "name": "动力车间建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090300",
+                        "name": "动力车间建筑",
+                        "parentId": "j0903",
+                        "children": []
+                    },
+                    {
+                        "code": "j090301",
+                        "name": "单层动力车间建筑",
+                        "parentId": "j0903",
+                        "children": []
+                    },
+                    {
+                        "code": "j090302",
+                        "name": "多层动力车间建筑",
+                        "parentId": "j0903",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0904",
+                "name": "仓储车间建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090400",
+                        "name": "仓储车间建筑",
+                        "parentId": "j0904",
+                        "children": []
+                    },
+                    {
+                        "code": "j090401",
+                        "name": "单层仓储车间建筑",
+                        "parentId": "j0904",
+                        "children": []
+                    },
+                    {
+                        "code": "j090402",
+                        "name": "多层仓储车间建筑",
+                        "parentId": "j0904",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0905",
+                "name": "其他车间建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090500",
+                        "name": "其他车间建筑",
+                        "parentId": "j0905",
+                        "children": []
+                    },
+                    {
+                        "code": "j090501",
+                        "name": "单层其他车间建筑",
+                        "parentId": "j0905",
+                        "children": []
+                    },
+                    {
+                        "code": "j090502",
+                        "name": "多层其他车间建筑",
+                        "parentId": "j0905",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "j0906",
+                "name": "其他附属建筑",
+                "parentId": "j09",
+                "children": [
+                    {
+                        "code": "j090600",
+                        "name": "其他附属建筑",
+                        "parentId": "j0906",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

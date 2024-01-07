@@ -1,0 +1,31 @@
+{//怎么感觉建筑信息和负荷指标之间没有联系呢？
+    "id": 1,//367个城市,291个建筑，依次向下生成id 一共106797个
+    "thirdCode": "j010000",//建筑
+    "cityCode": "x010100",//城市
+    //使用信息
+    "usableRate": 0.84,
+    "perCapitaArea": 38.33,
+    //？？缺少使用面积、公共面积   使用人数=使用面积/人均面积
+    //充电桩信息
+    "perVehicleArea": 30.0,
+    "parkingAreaRate": 0.75,//？没有体现，工业里面指可使用率
+    "electricLotsRate": 0.2,
+    "quickChargeRate": 0.1,
+    "quickChargePower": 30.0,
+    "slowChargePower": 7.0,
+    //？？？车位数量、充电数量、交流慢充没有
+    //窗墙比
+    "windowWallRatioNorth": 0.3,
+    "windowWallRatioSouth": 0.5,
+    "windowWallRatioEast": 0.35,
+    "windowWallRatioWest": 0.35,
+    //热力特性
+    "temperatureSummer": 26.0,
+    "temperatureWinter": 20.0,
+    "wallHeatTransfer": 0.4,
+    "windowHeatTransfer": 2.0,
+    "wallAbsorption": 0.45,
+    "windowShading": 0.4,
+    "wallHeatStoring": 5.6,
+    "lastTime": null
+}
